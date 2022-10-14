@@ -1,0 +1,3 @@
+{
+    "ignore": ["*.njk", "*.webp", "./data/*", "./public/*", "./views/*"]
+}
